@@ -1,0 +1,15 @@
+{
+  "name": "trustless-cat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "GPL-3.0-or-later",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "homoglyph-search": "^1.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
