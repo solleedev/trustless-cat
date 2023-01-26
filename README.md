@@ -8,7 +8,7 @@ made for https://trustless.fi. looks at new joiners, scans them for susness
 
 1. new account (<7 days) (+1 point)
 2. has the word "trustless" in username (+2 points)
-3. has the words "admin", "support", "help", "mod", "operator", "giveaway", "finance", "trading", "community", "official", "announcement", "news" or "DAO" in username (+1 point)
+3. has the words "admin", "support", "help", "mod", "operator", "giveaway", "finance", "trading", "community", "official", "announcement", "robot", "news" or "DAO" in username (+1 point)
 4. if >=1 points, report to mods
 5. if >=3 points, instaban
 
